@@ -16,6 +16,7 @@
 - Python
 - Mobile Application Development
 - SQL
+- Python
 
 Additionally, I completed an internship at Dcodetech🏢, located in Thane. During this internship, I focused on web scraping using Python🐍. I successfully completed tasks involving web scraping of random websites and movie websites.
 
