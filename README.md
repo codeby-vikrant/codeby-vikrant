@@ -1,45 +1,15 @@
-# Hi there! 👋
+# 💫 About Me:
+I’m a passionate developer who enjoys creating practical, user-focused applications and constantly exploring new technologies. I’m currently working on full-stack and mobile development projects, including Android apps, React/React Native interfaces, and iOS programming using Swift, while actively strengthening my problem-solving skills. I’m looking to collaborate on Android or React projects, open-source initiatives, and data-driven applications, and I’m also seeking guidance in understanding large-scale architecture and backend optimization. Feel free to ask me about Android development, React/React Native fundamentals, iOS development with Swift, Git & GitHub, or structured project documentation. A fun fact about me is that I love learning new technologies and experimenting with different versions of the same application across multiple platforms.
 
-#### I'm Vikrant Vani, a passionate learner in the field of Computer Science and Information Technology. Welcome to my GitHub profile!👾
 
-## About Me👨🏻‍💻
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikrantsvani) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikrant-vani-96b329209) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vicky_gtr34) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithvikrant0111@gmail.com) 
 
-#### I completed my diploma in Computer Science in 2023 from Pillai HOC College of Engineering and Technology with a score of 83.47%. During my diploma, I gained proficiency in various programming languages and technologies, including:
-- C
-- C++
-- Java
-- Advanced Java
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Python
-- Mobile Application Development
-- SQL
-- Python
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=codeby-vikrant&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=codeby-vikrant&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-vikrant&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Additionally, I completed an internship at Dcodetech🏢, located in Thane. During this internship, I focused on web scraping using Python🐍. I successfully completed tasks involving web scraping of random websites and movie websites.
-
-Currently, I'm pursuing a degree in Information Technology at MIT ADT University👨🏻‍🎓, specializing in Software Mobile Application Development (SMAD)📲. I'm learning new subjects such as Swift programming language, Swift UI, and MongoDB📊. I've also gained basic knowledge of Flutter through a LinkedIn Learning course, for which I received certification📄.
-
-## What I'm Currently Working On
-
-I'm currently focusing on mastering Swift programming language and Swift UI for mobile application development. I'm excited about exploring new technologies and enhancing my skills in software development.
-
-## Get in Touch
-
-- 💬 Ask me about anything related to programming, web scraping, or mobile application development.
-- 📫 You can reach me via email at workwithvikrant0111@gmail.com.
-- 🌐 Connect with me on https://www.linkedin.com/in/vikrant-vani-96b329209/.
-
-## My GitHub Stats
-
-![Vikrant's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeby-vikrant&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-vikrant&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Fun Fact
-
-I enjoy exploring new technologies and finding creative solutions to challenges in software development.
-
-Thanks for visiting my profile! 😊
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
